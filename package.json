@@ -1,0 +1,20 @@
+{
+  "name": "us234simple-calculator",
+  "version": "1.0.3",
+  "description": "A SIMPLE CALCULATOR",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "a6ba3-simple-calculator": "^1.0.3",
+    "init": "^0.1.2",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
